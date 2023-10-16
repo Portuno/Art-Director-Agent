@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Art-Director-Agent/static/css/main.1e28962c.css",
+    "main.js": "/Art-Director-Agent/static/js/main.ba289610.js",
+    "static/js/787.cda612ba.chunk.js": "/Art-Director-Agent/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Art-Director-Agent/index.html",
+    "main.1e28962c.css.map": "/Art-Director-Agent/static/css/main.1e28962c.css.map",
+    "main.ba289610.js.map": "/Art-Director-Agent/static/js/main.ba289610.js.map",
+    "787.cda612ba.chunk.js.map": "/Art-Director-Agent/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e28962c.css",
+    "static/js/main.ba289610.js"
+  ]
+}
